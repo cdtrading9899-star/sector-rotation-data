@@ -1,6 +1,6 @@
 {
-  "asof": "2026-08-20",
-  "generated_at_utc": "2026-08-20T11:03:47+00:00",
+  "asof": "2026-08-21",
+  "generated_at_utc": "2026-08-21T11:03:07+00:00",
   "benchmark": "NIFTY 50",
   "benchmark_ticker": "^NSEI",
   "rrg_params": {
@@ -12,19 +12,19 @@
     {
       "name": "NIFTY BANK",
       "ticker": "^NSEBANK",
-      "ltp": 57495.9,
+      "ltp": 57761.95,
       "returns": {
-        "1D": 0.45,
-        "1W": -0.24,
-        "1M": -1.75,
-        "3M": 7.39,
-        "6M": -5.16,
-        "1Y": 3.76
+        "1D": 0.46,
+        "1W": 0.47,
+        "1M": 2.07,
+        "3M": 6.86,
+        "6M": -5.23,
+        "1Y": 4.94
       },
       "current": {
-        "rs_ratio": 100.23,
-        "rs_momentum": 99.46,
-        "quadrant": "Weakening"
+        "rs_ratio": 100.34,
+        "rs_momentum": 100.7,
+        "quadrant": "Leading"
       },
       "tail": [
         {
@@ -54,46 +54,46 @@
         },
         {
           "date": "2026-07-26",
-          "rs_ratio": 100.75,
+          "rs_ratio": 100.72,
           "rs_momentum": 100.69
         },
         {
           "date": "2026-08-02",
-          "rs_ratio": 100.06,
-          "rs_momentum": 99.49
+          "rs_ratio": 99.96,
+          "rs_momentum": 99.78
         },
         {
           "date": "2026-08-09",
-          "rs_ratio": 99.96,
-          "rs_momentum": 99.43
+          "rs_ratio": 99.89,
+          "rs_momentum": 99.42
         },
         {
           "date": "2026-08-16",
-          "rs_ratio": 100.05,
-          "rs_momentum": 99.66
+          "rs_ratio": 99.95,
+          "rs_momentum": 99.6
         },
         {
           "date": "2026-08-23",
-          "rs_ratio": 100.23,
-          "rs_momentum": 99.46
+          "rs_ratio": 100.34,
+          "rs_momentum": 100.7
         }
       ]
     },
     {
       "name": "NIFTY IT",
       "ticker": "^CNXIT",
-      "ltp": 30673.05,
+      "ltp": 30532.25,
       "returns": {
-        "1D": 0.79,
-        "1W": -2.48,
-        "1M": 4.95,
-        "3M": 8.04,
-        "6M": -14.13,
-        "1Y": -10.9
+        "1D": -0.46,
+        "1W": -2.63,
+        "1M": 7.0,
+        "3M": 5.6,
+        "6M": -6.74,
+        "1Y": -11.95
       },
       "current": {
-        "rs_ratio": 100.91,
-        "rs_momentum": 99.94,
+        "rs_ratio": 100.79,
+        "rs_momentum": 99.61,
         "quadrant": "Weakening"
       },
       "tail": [
@@ -124,46 +124,46 @@
         },
         {
           "date": "2026-07-26",
-          "rs_ratio": 100.37,
-          "rs_momentum": 100.86
+          "rs_ratio": 100.42,
+          "rs_momentum": 100.83
         },
         {
           "date": "2026-08-02",
-          "rs_ratio": 101.82,
-          "rs_momentum": 99.68
+          "rs_ratio": 101.31,
+          "rs_momentum": 98.7
         },
         {
           "date": "2026-08-09",
-          "rs_ratio": 101.58,
-          "rs_momentum": 100.76
+          "rs_ratio": 101.55,
+          "rs_momentum": 100.75
         },
         {
           "date": "2026-08-16",
-          "rs_ratio": 101.38,
-          "rs_momentum": 99.7
+          "rs_ratio": 101.35,
+          "rs_momentum": 99.67
         },
         {
           "date": "2026-08-23",
-          "rs_ratio": 100.91,
-          "rs_momentum": 99.94
+          "rs_ratio": 100.79,
+          "rs_momentum": 99.61
         }
       ]
     },
     {
       "name": "NIFTY PHARMA",
       "ticker": "^CNXPHARMA",
-      "ltp": 26416.0,
+      "ltp": 26359.75,
       "returns": {
-        "1D": 0.39,
-        "1W": -1.01,
-        "1M": 2.58,
-        "3M": 6.13,
-        "6M": 19.02,
-        "1Y": 23.43
+        "1D": -0.21,
+        "1W": -0.32,
+        "1M": 2.75,
+        "3M": 7.27,
+        "6M": 17.66,
+        "1Y": 22.01
       },
       "current": {
-        "rs_ratio": 101.34,
-        "rs_momentum": 99.37,
+        "rs_ratio": 101.1,
+        "rs_momentum": 99.33,
         "quadrant": "Weakening"
       },
       "tail": [
@@ -194,98 +194,28 @@
         },
         {
           "date": "2026-07-26",
-          "rs_ratio": 101.27,
-          "rs_momentum": 99.98
+          "rs_ratio": 101.26,
+          "rs_momentum": 99.93
         },
         {
           "date": "2026-08-02",
-          "rs_ratio": 101.48,
-          "rs_momentum": 99.26
+          "rs_ratio": 101.63,
+          "rs_momentum": 100.7
         },
         {
           "date": "2026-08-09",
-          "rs_ratio": 101.33,
+          "rs_ratio": 101.27,
           "rs_momentum": 100.29
         },
         {
           "date": "2026-08-16",
-          "rs_ratio": 101.33,
-          "rs_momentum": 98.28
+          "rs_ratio": 101.23,
+          "rs_momentum": 98.34
         },
         {
           "date": "2026-08-23",
-          "rs_ratio": 101.34,
-          "rs_momentum": 99.37
-        }
-      ]
-    },
-    {
-      "name": "NIFTY PSU BANK",
-      "ticker": "^CNXPSUBANK",
-      "ltp": 8616.65,
-      "returns": {
-        "1D": 2.8,
-        "1W": 1.84,
-        "1M": -1.76,
-        "3M": -2.78,
-        "6M": 0.18,
-        "1Y": 20.97
-      },
-      "current": {
-        "rs_ratio": 100.39,
-        "rs_momentum": 103.16,
-        "quadrant": "Leading"
-      },
-      "tail": [
-        {
-          "date": "2026-05-24",
-          "rs_ratio": 98.15,
-          "rs_momentum": 100.49
-        },
-        {
-          "date": "2026-05-31",
-          "rs_ratio": 98.96,
-          "rs_momentum": 100.92
-        },
-        {
-          "date": "2026-06-07",
-          "rs_ratio": 99.63,
-          "rs_momentum": 100.9
-        },
-        {
-          "date": "2026-06-14",
-          "rs_ratio": 100.41,
-          "rs_momentum": 100.81
-        },
-        {
-          "date": "2026-06-21",
-          "rs_ratio": 100.7,
-          "rs_momentum": 100.05
-        },
-        {
-          "date": "2026-06-28",
-          "rs_ratio": 100.36,
-          "rs_momentum": 100.05
-        },
-        {
-          "date": "2026-07-05",
-          "rs_ratio": 99.13,
-          "rs_momentum": 97.84
-        },
-        {
-          "date": "2026-07-12",
-          "rs_ratio": 99.58,
-          "rs_momentum": 102.12
-        },
-        {
-          "date": "2026-07-19",
-          "rs_ratio": 99.22,
-          "rs_momentum": 99.41
-        },
-        {
-          "date": "2026-08-23",
-          "rs_ratio": 100.39,
-          "rs_momentum": 103.16
+          "rs_ratio": 101.1,
+          "rs_momentum": 99.33
         }
       ]
     }
