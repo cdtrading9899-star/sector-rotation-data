@@ -1,6 +1,6 @@
 {
-  "asof": "2026-09-10",
-  "generated_at_utc": "2026-09-10T14:39:12+00:00",
+  "asof": "2026-09-11",
+  "generated_at_utc": "2026-09-11T14:37:54+00:00",
   "benchmark": "NIFTY 50",
   "benchmark_ticker": "^NSEI",
   "rrg_params": {
@@ -12,18 +12,18 @@
     {
       "name": "NIFTY BANK",
       "ticker": "^NSEBANK",
-      "ltp": 56471.95,
+      "ltp": 56606.55,
       "returns": {
-        "1D": 0.31,
-        "1W": -1.58,
-        "1M": -2.44,
-        "3M": -0.6,
-        "6M": 0.81,
-        "1Y": 4.45
+        "1D": 0.24,
+        "1W": -1.33,
+        "1M": -1.78,
+        "3M": -1.04,
+        "6M": -0.6,
+        "1Y": 4.68
       },
       "current": {
-        "rs_ratio": 101.06,
-        "rs_momentum": 100.56,
+        "rs_ratio": 101.69,
+        "rs_momentum": 102.11,
         "quadrant": "Leading"
       },
       "tail": [
@@ -74,27 +74,27 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 101.06,
-          "rs_momentum": 100.56
+          "rs_ratio": 101.69,
+          "rs_momentum": 102.11
         }
       ]
     },
     {
       "name": "NIFTY IT",
       "ticker": "^CNXIT",
-      "ltp": 28890.9,
+      "ltp": 28921.5,
       "returns": {
-        "1D": -0.08,
-        "1W": -6.32,
-        "1M": -7.79,
-        "3M": 3.94,
-        "6M": -4.21,
-        "1Y": -18.56
+        "1D": 0.11,
+        "1W": -5.78,
+        "1M": -8.05,
+        "3M": 3.04,
+        "6M": -3.67,
+        "1Y": -17.7
       },
       "current": {
-        "rs_ratio": 100.15,
-        "rs_momentum": 99.69,
-        "quadrant": "Weakening"
+        "rs_ratio": 100.22,
+        "rs_momentum": 100.15,
+        "quadrant": "Leading"
       },
       "tail": [
         {
@@ -144,26 +144,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 100.15,
-          "rs_momentum": 99.69
+          "rs_ratio": 100.22,
+          "rs_momentum": 100.15
         }
       ]
     },
     {
       "name": "NIFTY AUTO",
       "ticker": "^CNXAUTO",
-      "ltp": 27540.95,
+      "ltp": 27304.5,
       "returns": {
-        "1D": 1.63,
-        "1W": 2.07,
-        "1M": 2.97,
-        "3M": 4.18,
-        "6M": -1.95,
-        "1Y": 15.46
+        "1D": 0.76,
+        "1W": 1.2,
+        "1M": 2.09,
+        "3M": 3.29,
+        "6M": -2.79,
+        "1Y": 14.47
       },
       "current": {
-        "rs_ratio": 103.87,
-        "rs_momentum": 105.32,
+        "rs_ratio": 103.6,
+        "rs_momentum": 105.07,
         "quadrant": "Leading"
       },
       "tail": [
@@ -214,27 +214,27 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 103.87,
-          "rs_momentum": 105.32
+          "rs_ratio": 103.6,
+          "rs_momentum": 105.07
         }
       ]
     },
     {
       "name": "NIFTY PHARMA",
       "ticker": "^CNXPHARMA",
-      "ltp": 26555.85,
+      "ltp": 26532.4,
       "returns": {
-        "1D": -0.51,
-        "1W": -0.39,
-        "1M": -0.77,
-        "3M": 8.92,
-        "6M": 15.79,
-        "1Y": 22.26
+        "1D": -0.09,
+        "1W": 0.21,
+        "1M": -0.58,
+        "3M": 9.55,
+        "6M": 14.1,
+        "1Y": 20.82
       },
       "current": {
-        "rs_ratio": 101.73,
-        "rs_momentum": 98.72,
-        "quadrant": "Weakening"
+        "rs_ratio": 101.77,
+        "rs_momentum": 100.09,
+        "quadrant": "Leading"
       },
       "tail": [
         {
@@ -284,26 +284,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 101.73,
-          "rs_momentum": 98.72
+          "rs_ratio": 101.77,
+          "rs_momentum": 100.09
         }
       ]
     },
     {
       "name": "NIFTY FMCG",
       "ticker": "^CNXFMCG",
-      "ltp": 45185.6,
+      "ltp": 45053.75,
       "returns": {
-        "1D": -7.31,
-        "1W": -7.43,
-        "1M": -9.0,
-        "3M": -9.01,
-        "6M": -13.83,
-        "1Y": -18.59
+        "1D": -7.58,
+        "1W": -7.7,
+        "1M": -9.27,
+        "3M": -9.27,
+        "6M": -14.08,
+        "1Y": -18.83
       },
       "current": {
-        "rs_ratio": 96.6,
-        "rs_momentum": 96.75,
+        "rs_ratio": 96.62,
+        "rs_momentum": 96.78,
         "quadrant": "Lagging"
       },
       "tail": [
@@ -354,26 +354,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 96.6,
-          "rs_momentum": 96.75
+          "rs_ratio": 96.62,
+          "rs_momentum": 96.78
         }
       ]
     },
     {
       "name": "NIFTY METAL",
       "ticker": "^CNXMETAL",
-      "ltp": 13304.95,
+      "ltp": 12999.05,
       "returns": {
-        "1D": 6.98,
-        "1W": 5.58,
-        "1M": 2.26,
-        "3M": 3.3,
-        "6M": 19.92,
-        "1Y": 39.8
+        "1D": 4.52,
+        "1W": 3.16,
+        "1M": -0.09,
+        "3M": 0.92,
+        "6M": 17.16,
+        "1Y": 36.58
       },
       "current": {
-        "rs_ratio": 101.28,
-        "rs_momentum": 106.82,
+        "rs_ratio": 100.71,
+        "rs_momentum": 106.43,
         "quadrant": "Leading"
       },
       "tail": [
@@ -424,26 +424,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 101.28,
-          "rs_momentum": 106.82
+          "rs_ratio": 100.71,
+          "rs_momentum": 106.43
         }
       ]
     },
     {
       "name": "NIFTY REALTY",
       "ticker": "^CNXREALTY",
-      "ltp": 872.05,
+      "ltp": 848.5,
       "returns": {
-        "1D": -5.08,
-        "1W": -6.95,
-        "1M": 6.32,
-        "3M": 10.82,
-        "6M": -0.22,
-        "1Y": -11.23
+        "1D": -7.64,
+        "1W": -9.46,
+        "1M": 3.45,
+        "3M": 7.83,
+        "6M": -2.92,
+        "1Y": -13.63
       },
       "current": {
-        "rs_ratio": 101.6,
-        "rs_momentum": 98.71,
+        "rs_ratio": 101.16,
+        "rs_momentum": 97.43,
         "quadrant": "Weakening"
       },
       "tail": [
@@ -494,26 +494,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 101.6,
-          "rs_momentum": 98.71
+          "rs_ratio": 101.16,
+          "rs_momentum": 97.43
         }
       ]
     },
     {
       "name": "NIFTY MEDIA",
       "ticker": "^CNXMEDIA",
-      "ltp": 1534.8,
+      "ltp": 1537.2,
       "returns": {
-        "1D": 0.88,
-        "1W": 1.29,
-        "1M": 1.38,
-        "3M": 8.34,
-        "6M": 7.68,
-        "1Y": -11.87
+        "1D": 1.04,
+        "1W": 1.45,
+        "1M": 1.54,
+        "3M": 8.51,
+        "6M": 7.85,
+        "1Y": -11.73
       },
       "current": {
-        "rs_ratio": 102.36,
-        "rs_momentum": 103.68,
+        "rs_ratio": 102.52,
+        "rs_momentum": 103.97,
         "quadrant": "Leading"
       },
       "tail": [
@@ -564,26 +564,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 102.36,
-          "rs_momentum": 103.68
+          "rs_ratio": 102.52,
+          "rs_momentum": 103.97
         }
       ]
     },
     {
       "name": "NIFTY ENERGY",
       "ticker": "^CNXENERGY",
-      "ltp": 38223.4,
+      "ltp": 37935.2,
       "returns": {
-        "1D": -2.68,
-        "1W": -2.54,
-        "1M": -5.52,
-        "3M": -1.69,
-        "6M": 11.08,
-        "1Y": 4.42
+        "1D": -3.42,
+        "1W": -3.28,
+        "1M": -6.23,
+        "3M": -2.43,
+        "6M": 10.25,
+        "1Y": 3.63
       },
       "current": {
-        "rs_ratio": 98.78,
-        "rs_momentum": 102.05,
+        "rs_ratio": 98.6,
+        "rs_momentum": 101.14,
         "quadrant": "Improving"
       },
       "tail": [
@@ -634,26 +634,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 98.78,
-          "rs_momentum": 102.05
+          "rs_ratio": 98.6,
+          "rs_momentum": 101.14
         }
       ]
     },
     {
       "name": "NIFTY PSU BANK",
       "ticker": "^CNXPSUBANK",
-      "ltp": 8401.85,
+      "ltp": 8349.9,
       "returns": {
-        "1D": 0.24,
-        "1W": -0.69,
-        "1M": -4.21,
-        "3M": -5.2,
-        "6M": -2.32,
-        "1Y": 17.95
+        "1D": -0.38,
+        "1W": -1.31,
+        "1M": -4.8,
+        "3M": -5.79,
+        "6M": -2.92,
+        "1Y": 17.22
       },
       "current": {
-        "rs_ratio": 100.62,
-        "rs_momentum": 103.66,
+        "rs_ratio": 100.52,
+        "rs_momentum": 103.44,
         "quadrant": "Leading"
       },
       "tail": [
@@ -704,26 +704,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 100.62,
-          "rs_momentum": 103.66
+          "rs_ratio": 100.52,
+          "rs_momentum": 103.44
         }
       ]
     },
     {
       "name": "NIFTY PVT BANK",
       "ticker": "NIFTY_PVT_BANK.NS",
-      "ltp": 27305.9,
+      "ltp": 27436.0,
       "returns": {
-        "1D": -4.22,
-        "1W": -3.01,
-        "1M": -2.59,
-        "3M": 0.81,
-        "6M": -4.19,
-        "1Y": -3.31
+        "1D": -3.76,
+        "1W": -2.55,
+        "1M": -2.12,
+        "3M": 1.29,
+        "6M": -3.74,
+        "1Y": -2.85
       },
       "current": {
-        "rs_ratio": 101.01,
-        "rs_momentum": 99.06,
+        "rs_ratio": 101.33,
+        "rs_momentum": 99.9,
         "quadrant": "Weakening"
       },
       "tail": [
@@ -774,27 +774,27 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 101.01,
-          "rs_momentum": 99.06
+          "rs_ratio": 101.33,
+          "rs_momentum": 99.9
         }
       ]
     },
     {
       "name": "NIFTY FIN SERVICE",
       "ticker": "NIFTY_FIN_SERVICE.NS",
-      "ltp": 25520.3,
+      "ltp": 25545.4,
       "returns": {
-        "1D": -5.14,
-        "1W": -4.9,
-        "1M": -3.99,
-        "3M": -3.77,
-        "6M": -6.8,
-        "1Y": -5.54
+        "1D": -5.05,
+        "1W": -4.81,
+        "1M": -3.9,
+        "3M": -3.68,
+        "6M": -6.71,
+        "1Y": -5.45
       },
       "current": {
-        "rs_ratio": 99.88,
-        "rs_momentum": 97.25,
-        "quadrant": "Lagging"
+        "rs_ratio": 100.18,
+        "rs_momentum": 97.88,
+        "quadrant": "Weakening"
       },
       "tail": [
         {
@@ -844,26 +844,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 99.88,
-          "rs_momentum": 97.25
+          "rs_ratio": 100.18,
+          "rs_momentum": 97.88
         }
       ]
     },
     {
       "name": "NIFTY INFRA",
       "ticker": "^CNXINFRA",
-      "ltp": 9133.45,
+      "ltp": 9077.15,
       "returns": {
-        "1D": -2.6,
-        "1W": -2.64,
-        "1M": -3.86,
-        "3M": -1.91,
-        "6M": -1.83,
-        "1Y": -3.67
+        "1D": -3.2,
+        "1W": -3.24,
+        "1M": -4.45,
+        "3M": -2.52,
+        "6M": -2.43,
+        "1Y": -4.26
       },
       "current": {
-        "rs_ratio": 99.28,
-        "rs_momentum": 103.41,
+        "rs_ratio": 98.98,
+        "rs_momentum": 102.5,
         "quadrant": "Improving"
       },
       "tail": [
@@ -914,26 +914,26 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 99.28,
-          "rs_momentum": 103.41
+          "rs_ratio": 98.98,
+          "rs_momentum": 102.5
         }
       ]
     },
     {
       "name": "NIFTY COMMODITIES",
       "ticker": "^CNXCMDT",
-      "ltp": 9709.9,
+      "ltp": 9579.8,
       "returns": {
-        "1D": -1.24,
-        "1W": -1.34,
-        "1M": -3.77,
-        "3M": -3.7,
-        "6M": 3.66,
-        "1Y": 7.41
+        "1D": -2.57,
+        "1W": -2.67,
+        "1M": -5.06,
+        "3M": -4.99,
+        "6M": 2.27,
+        "1Y": 5.97
       },
       "current": {
-        "rs_ratio": 99.19,
-        "rs_momentum": 104.25,
+        "rs_ratio": 98.81,
+        "rs_momentum": 102.85,
         "quadrant": "Improving"
       },
       "tail": [
@@ -984,8 +984,8 @@
         },
         {
           "date": "2026-09-13",
-          "rs_ratio": 99.19,
-          "rs_momentum": 104.25
+          "rs_ratio": 98.81,
+          "rs_momentum": 102.85
         }
       ]
     }
