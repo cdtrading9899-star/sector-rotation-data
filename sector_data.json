@@ -1,6 +1,6 @@
 {
-  "asof": "2026-09-21",
-  "generated_at_utc": "2026-09-21T16:36:25+00:00",
+  "asof": "2026-09-22",
+  "generated_at_utc": "2026-09-22T15:10:51+00:00",
   "benchmark": "NIFTY 50",
   "benchmark_ticker": "^NSEI",
   "rrg_params": {
@@ -12,18 +12,18 @@
     {
       "name": "NIFTY BANK",
       "ticker": "^NSEBANK",
-      "ltp": 56470.65,
+      "ltp": 56215.55,
       "returns": {
-        "1D": 0.2,
-        "1W": -0.24,
-        "1M": -1.78,
-        "3M": -2.53,
-        "6M": 2.91,
-        "1Y": 3.29
+        "1D": -0.45,
+        "1W": 0.75,
+        "1M": -2.68,
+        "3M": -1.69,
+        "6M": 1.61,
+        "1Y": 2.57
       },
       "current": {
-        "rs_ratio": 101.18,
-        "rs_momentum": 99.7,
+        "rs_ratio": 101.08,
+        "rs_momentum": 99.71,
         "quadrant": "Weakening"
       },
       "tail": [
@@ -74,27 +74,27 @@
         },
         {
           "date": "2026-09-27",
-          "rs_ratio": 101.18,
-          "rs_momentum": 99.7
+          "rs_ratio": 101.08,
+          "rs_momentum": 99.71
         }
       ]
     },
     {
       "name": "NIFTY IT",
       "ticker": "^CNXIT",
-      "ltp": 28830.9,
+      "ltp": 28582.1,
       "returns": {
-        "1D": -0.08,
-        "1W": -0.31,
-        "1M": -6.01,
-        "3M": 4.35,
-        "6M": 0.24,
-        "1Y": -19.92
+        "1D": -0.86,
+        "1W": -3.29,
+        "1M": -6.39,
+        "3M": 5.81,
+        "6M": -3.31,
+        "1Y": -20.85
       },
       "current": {
-        "rs_ratio": 100.05,
-        "rs_momentum": 99.59,
-        "quadrant": "Weakening"
+        "rs_ratio": 99.92,
+        "rs_momentum": 99.49,
+        "quadrant": "Lagging"
       },
       "tail": [
         {
@@ -144,27 +144,27 @@
         },
         {
           "date": "2026-09-27",
-          "rs_ratio": 100.05,
-          "rs_momentum": 99.59
+          "rs_ratio": 99.92,
+          "rs_momentum": 99.49
         }
       ]
     },
     {
       "name": "NIFTY PHARMA",
       "ticker": "^CNXPHARMA",
-      "ltp": 27021.15,
+      "ltp": 26909.6,
       "returns": {
-        "1D": 1.16,
-        "1W": 1.84,
-        "1M": 2.29,
-        "3M": 9.12,
-        "6M": 19.58,
-        "1Y": 22.15
+        "1D": -0.41,
+        "1W": 2.75,
+        "1M": 2.09,
+        "3M": 7.68,
+        "6M": 18.9,
+        "1Y": 21.08
       },
       "current": {
-        "rs_ratio": 102.3,
-        "rs_momentum": 100.92,
-        "quadrant": "Leading"
+        "rs_ratio": 102.17,
+        "rs_momentum": 99.44,
+        "quadrant": "Weakening"
       },
       "tail": [
         {
@@ -214,8 +214,8 @@
         },
         {
           "date": "2026-09-27",
-          "rs_ratio": 102.3,
-          "rs_momentum": 100.92
+          "rs_ratio": 102.17,
+          "rs_momentum": 99.44
         }
       ]
     }
