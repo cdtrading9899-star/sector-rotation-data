@@ -1,6 +1,6 @@
 {
-  "asof": "2026-10-21",
-  "generated_at_utc": "2026-10-21T15:38:25+00:00",
+  "asof": "2026-10-22",
+  "generated_at_utc": "2026-10-22T15:40:04+00:00",
   "benchmark": "NIFTY 50",
   "benchmark_ticker": "^NSEI",
   "rrg_params": {
@@ -12,19 +12,19 @@
     {
       "name": "NIFTY BANK",
       "ticker": "^NSEBANK",
-      "ltp": 54976.9,
+      "ltp": 54925.7,
       "returns": {
-        "1D": -0.92,
-        "1W": -0.91,
-        "1M": -2.45,
-        "3M": -4.94,
-        "6M": -2.84,
-        "1Y": -2.88
+        "1D": -0.09,
+        "1W": -0.71,
+        "1M": -2.74,
+        "3M": -3.85,
+        "6M": -4.26,
+        "1Y": -3.0
       },
       "current": {
-        "rs_ratio": 100.56,
-        "rs_momentum": 98.81,
-        "quadrant": "Weakening"
+        "rs_ratio": 100.9,
+        "rs_momentum": 100.82,
+        "quadrant": "Leading"
       },
       "tail": [
         {
@@ -74,27 +74,27 @@
         },
         {
           "date": "2026-10-25",
-          "rs_ratio": 100.56,
-          "rs_momentum": 98.81
+          "rs_ratio": 100.9,
+          "rs_momentum": 100.82
         }
       ]
     },
     {
       "name": "NIFTY IT",
       "ticker": "^CNXIT",
-      "ltp": 32422.5,
+      "ltp": 32081.25,
       "returns": {
-        "1D": 2.88,
-        "1W": 8.69,
-        "1M": 12.37,
-        "3M": 11.86,
-        "6M": 2.65,
-        "1Y": -8.95
+        "1D": -1.05,
+        "1W": 6.33,
+        "1M": 11.27,
+        "3M": 12.37,
+        "6M": 1.11,
+        "1Y": -9.2
       },
       "current": {
-        "rs_ratio": 103.67,
-        "rs_momentum": 101.62,
-        "quadrant": "Leading"
+        "rs_ratio": 103.2,
+        "rs_momentum": 98.67,
+        "quadrant": "Weakening"
       },
       "tail": [
         {
@@ -144,26 +144,26 @@
         },
         {
           "date": "2026-10-25",
-          "rs_ratio": 103.67,
-          "rs_momentum": 101.62
+          "rs_ratio": 103.2,
+          "rs_momentum": 98.67
         }
       ]
     },
     {
       "name": "NIFTY PHARMA",
       "ticker": "^CNXPHARMA",
-      "ltp": 25565.9,
+      "ltp": 25596.65,
       "returns": {
-        "1D": -0.19,
-        "1W": -1.95,
-        "1M": -4.28,
-        "3M": -2.02,
-        "6M": 13.85,
-        "1Y": 16.55
+        "1D": 0.12,
+        "1W": -0.55,
+        "1M": -5.27,
+        "3M": -0.6,
+        "6M": 14.07,
+        "1Y": 15.21
       },
       "current": {
-        "rs_ratio": 100.06,
-        "rs_momentum": 100.18,
+        "rs_ratio": 100.26,
+        "rs_momentum": 100.79,
         "quadrant": "Leading"
       },
       "tail": [
@@ -214,8 +214,8 @@
         },
         {
           "date": "2026-10-25",
-          "rs_ratio": 100.06,
-          "rs_momentum": 100.18
+          "rs_ratio": 100.26,
+          "rs_momentum": 100.79
         }
       ]
     }
